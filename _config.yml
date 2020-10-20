@@ -99,3 +99,5 @@ enable_nav: false
 nav_item:
   - { url: '/', text: 'Home' }
   - { url: '/kleiner-perkins', text: 'About' }
+
+theme: jekyll-theme-slate
